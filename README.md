@@ -1,1 +1,1 @@
-loadstring: loadstring(game:HttpGet("https://raw.githubusercontent.com/finaldanikz/jailhax/refs/heads/main/message%20(4).txt"))()
+loadstring: loadstring(game:HttpGet("https://raw.githubusercontent.com/xcopium/jailhax/refs/heads/main/message%20(4).txt"))()
